@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
+button{
+  background-color: red;
+}
+
+h1{
+  font-size: 70px;
+  margin: 50px;
+  font-family: "Sixtyfour Convergence", sans-serif;
+  text-align: center;
+}
+
+form{
+  background-color: rgb(219, 219, 219);
+  padding: 10px 30px 30px 30px;
+  border-radius: 20px;
+}
